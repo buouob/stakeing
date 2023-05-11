@@ -17,9 +17,7 @@
     "build": "yarn workspace @scaffold-eth/react-app build --max-old-space-size=12288",
     "prettier": "yarn workspace @scaffold-eth/react-app prettier",
     "chain": "yarn workspace @scaffold-eth/hardhat chain",eact-app start",
-    "compile": "yarn workspace @scaffold-eth/hardhat compile",
-    "deploy": "yarn workspace @scaffold-eth/hardhat deploy",
-    "watch": "yarn workspace @scaffold-eth/hardhat watch",
+    "compile": "yarn
     "accounts": "yarn workspace @scaffold-eth/hardhat accounts",
     "balance": "yarn workspace @scaffold-eth/hardhat balance",
     "verify": "yarn workspace @scaffold-eth/hardhat verify",
