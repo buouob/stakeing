@@ -5,20 +5,6 @@
 > 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
 ### Checkpoint 0: 📦 install 📚
 
-Want a fresh cloud environment? Click this to open a gitpod workspace, then skip to Checkpoint 1 after the tasks are complete.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-1-decentralized-staking)
-
-
-```bash
-
-git clone https://github.com/scaffold-eth/scaffold-eth-challenges.git challenge-1-decentralized-staking
-
-cd challenge-1-decentralized-staking
-
-git checkout challenge-1-decentralized-staking
-
-yarn install
 
 ```
 
