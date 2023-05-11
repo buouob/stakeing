@@ -8,12 +8,7 @@ tasks:
     init: gp sync-await install
     command: yarn chain
     openMode: split-right
-  - name: Deployment
-    init: gp await-port 8545
-    command: yarn deploy
-    openMode: split-right
-ports:
-  - port: 3000
+  - nam
     onOpen: open-preview
   - port: 8545
     onOpen: ignore
