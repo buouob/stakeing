@@ -7,7 +7,6 @@ tasks:
   - name: Chain
     init: gp sync-await install
     command: yarn chain
-    openMode: split-right
   - nam
     onOpen: open-preview
   - port: 8545
