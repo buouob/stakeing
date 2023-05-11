@@ -5,12 +5,6 @@
 
 🔏 Edit your smart contract `Staker.sol` in `packages/hardhat/contracts`
 
----
-
-### Checkpoint 1: 🔭 Environment 📺
-
-You'll have three terminals up for:
-
 ```bash
 yarn start   (react app frontend)
 yarn chain   (hardhat backend)
