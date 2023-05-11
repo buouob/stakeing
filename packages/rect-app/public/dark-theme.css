@@ -8,19 +8,7 @@
 }
 @keyframes antFadeOut {
   0% {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
-}
-@keyframes antMoveDownIn {
-  0% {
-    transform: translateY(100%);
-    transform-origin: 0 0;
-    opacity: 0;
-  }
-  to {
+    opa
     transform: translateY(0);
     transform-origin: 0 0;
     opacity: 1;
