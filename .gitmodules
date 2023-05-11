@@ -5,4 +5,4 @@
 [submodule "packages/services/optimism"]
 	path = packages/services/optimism
 	url = https://github.com/ethereum-optimism/optimism
-	branch = regenesis/0.4.0
+	branch = regenes
