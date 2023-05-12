@@ -19,9 +19,7 @@
     "chain": "yarn workspace @scaffold-eth/hardhat chain",eact-app start",
     "compile": "yarn
     "accounts": "yarn workspace @scaffold-eth/hardhat accounts",
-    "balance": "yarn workspace @scaffold-eth/hardhat balance",
-    "verify": "yarn workspace @scaffold-eth/hardhat verify",
-    "send": "yarn workspace @scaffold-eth/hardhat send",
+    "balance": "yarn
     "ipfs": "yarn workspace @scaffold-eth/react-app ipfs",
     "surge": "yarn workspace @scaffold-eth/react-app surge",
     "s3": "yarn workspace @scaffold-eth/react-app s3",
