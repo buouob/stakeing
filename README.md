@@ -8,7 +8,7 @@
 ```bash
 yarn start   (react app frontend)
 yarn chain   (hardhat backend)
-yarn deploy  (to compile, deploy, and publisthe frontend)
+yarn deploy  (to compile, deploy, and publisthe fronte
 ```
 
 > 💻 View your fronten
